@@ -151,10 +151,6 @@ table {
   width: 33.33%;
 }
 
-p {
-  text-align: start;
-}
-
 .cats {
   height: 100%;
   background-image: url(./images/cats.jpg);
